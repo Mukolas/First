@@ -1,0 +1,58 @@
+.target{
+    display: inline-block; 
+    width: 100px;
+    height: 200px;
+    float: left;
+    
+}
+.target1_1{
+    display: inline-block; 
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: red;
+}
+.target1_2{
+    display: inline-block; 
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: green;
+}
+.target1_3{
+    display: inline-block; 
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: blue;
+}
+.target1_4{
+    display: inline-block; 
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: black;
+}
+
+.target2{
+    display: block;
+    width: 400px;
+    height: 50px;
+    background-color: orange;
+}
+.target3{
+    display:block;
+    width: 400px;
+    height: 50px;
+    margin-top: 50%;
+    background-color: orange;
+    
+    
+}
+.target4{
+    display: block;
+    width: 400px;
+    height: 300px;
+    padding: 5px;
+    background-color: black;
+}
